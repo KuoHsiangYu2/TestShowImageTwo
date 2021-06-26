@@ -5,7 +5,7 @@
 主要是在練習使用 Java AWT、Swing API製作一個GUI視窗程式。  
 這邊用到 Object父類別 預設就有的 getClass()方法，  
 再用getClass()方法 呼叫 getResource()方法，  
-並在 getResource()方法 傳入 以編譯出來的.class檔案【bytecode】為起始位置 『.』 的 『圖片相對路徑』。  
+並在 getResource()方法 傳入 以編譯出來的 .class檔案【bytecode】 為起始位置 『.』 的 『圖片相對路徑』。  
 getClass().getResource("./xxxImage") 如果成功抓取到圖片檔案會回傳 java.net.URL物件，  
 接著把 java.net.URL物件 導入 javax.swing.ImageIcon建構子，  
 就能成功建構出圖片物件，把圖秀出來。  
