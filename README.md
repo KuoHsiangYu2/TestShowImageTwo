@@ -31,3 +31,7 @@ jdk version：1.8.0_202
 點擊 open.bat 滑鼠右鍵 -> [開啟(O)] 打開目錄位於此專案根目錄的命令提示字元。  
 接著輸入 run.bat 開始 編譯 執行程式，以及把圖片檔案複製一份到.class檔案的位置。  
 程式關掉後。輸入 exit 關閉命令提示字元。  
+
+## Picture Copyright
+
+Copyright of `SetonAcademy_JoinThePack_1.jpg` belongs to "[©山下 文吾／Seton Academy: Join the Pack!]" and its artists.
